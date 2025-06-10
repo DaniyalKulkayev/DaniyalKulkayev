@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxuNndnY2owMzh6ajlmaWdwbTZ0b3ZzajBxcWxhNXBtZ2hwYjZoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H68qSZkEG9qw39YvRD/giphy.gif" width="100"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxuNndnY2owMzh6ajlmaWdwbTZ0b3ZzajBxcWxhNXBtZ2hwYjZoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H68qSZkEG9qw39YvRD/giphy.gif" width="200"/>
 
 
   <div id="badges">
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=DaniyalCOOLKAEF&style=flat-square&color=blue" alt=""/>
 
   <h1>
-  hi there
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjE1aXZ6cHN0dGt3bTM0ZjZzdHFreTV2cWljeWk3OWppbDg5ZTMxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mYxaNIP9suGG4murEa/giphy.gif" width="30px"/>
-</h1>
+    hi there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 </div>
