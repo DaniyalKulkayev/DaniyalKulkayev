@@ -1,7 +1,7 @@
 
 
 <!--
-**DaniyalCOOLKAEF/DaniyalCOOLKAEF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DaniyalKulkayev/DaniyalKulkayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     </a>
   </div>
 
-  <img src="https://komarev.com/ghpvc/?username=DaniyalCOOLKAEF&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=DaniyalKulkayev&style=flat-square&color=blue" alt=""/>
 
   <h1>
     hi there
@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DaniyalCOOLKAEF&theme=horizon&short_numbers=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DaniyalKulkayev&theme=horizon&short_numbers=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalCOOLKAEF&layout=compact&theme=vision-friendly-dark&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalKulkayev&layout=compact&theme=vision-friendly-dark&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats)
 
